@@ -15,6 +15,10 @@ The purpose of this analysis is to determine the feasibility of creating a bike 
 
 ### Checkout Times by Number of Users and Gender
 
+<img width="1138" alt="Checkout_Times_for_Users" src="https://user-images.githubusercontent.com/112291888/208529390-578beb06-1445-41e6-baf1-a236e8cea117.png">
+
+<img width="1135" alt="Checkout_Times_by_gender" src="https://user-images.githubusercontent.com/112291888/208529456-c717d6ef-ea3d-4236-99a4-a619e3058b85.png">
+
 Looking at the above images we can see that the most frequent duration for a bike ride is around 10 minutes, with over 140,000 rides total. Looking at the gender breakdown, we can see that men are more frequently using bikes with the trip durations still around 10 minutes. 
 
 ### Trips by Gender, Hour, and Weekday
