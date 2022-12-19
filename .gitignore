@@ -1,3 +1,7 @@
+# Adding in large files that don't need to be uploaded but need to be in file for pathway reasons
+citiride_data.csv
+201908-citibike-tripdata.csv 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
